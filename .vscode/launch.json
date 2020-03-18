@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - main",
+            "request": "launch",
+            "mainClass": "queue.main",
+            "projectName": "java dsa_fb2f582d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - stack",
+            "request": "launch",
+            "mainClass": "stack",
+            "projectName": "java dsa_fb2f582d"
+        }
+    ]
+}
